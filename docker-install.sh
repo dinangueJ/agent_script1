@@ -1,5 +1,5 @@
 #!/bin/bash
-# Created by Jeanne
+# Created by Jeanne D
 # Install docker in centos
 
 # Remove any old versions

@@ -1,6 +1,6 @@
 #! /bin/bash
 
-#Author: Jeanne D
+#Author: Liz D
 #Date
 #Update Server before Jenkins Installation
 sudo yum update -y
