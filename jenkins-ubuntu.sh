@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Author: jeannedinangue@yahoo.fr
-#Date: feb 2023
+#Date: feb 18 2023
 #Description: Installation of jenkins on ubuntu
 
 
